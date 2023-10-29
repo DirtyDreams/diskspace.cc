@@ -1,0 +1,7 @@
+C:\Users\missy\source\repos\diskspace.cc\diskspace.cc\bin\Debug\diskspace.cc.exe.config
+C:\Users\missy\source\repos\diskspace.cc\diskspace.cc\bin\Debug\diskspace.cc.exe
+C:\Users\missy\source\repos\diskspace.cc\diskspace.cc\bin\Debug\diskspace.cc.pdb
+C:\Users\missy\source\repos\diskspace.cc\diskspace.cc\obj\Debug\diskspace.cc.csprojAssemblyReference.cache
+C:\Users\missy\source\repos\diskspace.cc\diskspace.cc\obj\Debug\diskspace.cc.csproj.CoreCompileInputs.cache
+C:\Users\missy\source\repos\diskspace.cc\diskspace.cc\obj\Debug\diskspace.cc.exe
+C:\Users\missy\source\repos\diskspace.cc\diskspace.cc\obj\Debug\diskspace.cc.pdb
